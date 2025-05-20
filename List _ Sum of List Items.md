@@ -1,9 +1,5 @@
 # List Operations in Python: Sum of List Items
 
-NAME: Aman Singh
-
-REG NO: 212224040020
-
 
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
